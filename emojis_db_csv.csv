@@ -1,0 +1,1645 @@
+﻿emoji_category,number,code,CLDR_Short_Name
+face-positive,1,U+1F600,grinning face
+face-positive,2,U+1F601,beaming face with smiling eyes
+face-positive,3,U+1F602,face with tears of joy
+face-positive,4,U+1F923,rolling on the floor laughing
+face-positive,5,U+1F603,grinning face with big eyes
+face-positive,6,U+1F604,grinning face with smiling eyes
+face-positive,7,U+1F605,grinning face with sweat
+face-positive,8,U+1F606,grinning squinting face
+face-positive,9,U+1F609,winking face
+face-positive,10,U+1F60A,smiling face with smiling eyes
+face-positive,11,U+1F60B,face savoring food
+face-positive,12,U+1F60E,smiling face with sunglasses
+face-positive,13,U+1F60D,smiling face with heart-eyes
+face-positive,14,U+1F618,face blowing a kiss
+face-positive,15,U+1F970,? smiling face with 3 hearts
+face-positive,16,U+1F617,kissing face
+face-positive,17,U+1F619,kissing face with smiling eyes
+face-positive,18,U+1F61A,kissing face with closed eyes
+face-positive,19,U+263A,smiling face
+face-positive,20,U+1F642,slightly smiling face
+face-positive,21,U+1F917,hugging face
+face-positive,22,U+1F929,star-struck
+face-neutral,23,U+1F914,thinking face
+face-neutral,24,U+1F928,face with raised eyebrow
+face-neutral,25,U+1F610,neutral face
+face-neutral,26,U+1F611,expressionless face
+face-neutral,27,U+1F636,face without mouth
+face-neutral,28,U+1F644,face with rolling eyes
+face-neutral,29,U+1F60F,smirking face
+face-neutral,30,U+1F623,persevering face
+face-neutral,31,U+1F625,sad but relieved face
+face-neutral,32,U+1F62E,face with open mouth
+face-neutral,33,U+1F910,zipper-mouth face
+face-neutral,34,U+1F62F,hushed face
+face-neutral,35,U+1F62A,sleepy face
+face-neutral,36,U+1F62B,tired face
+face-neutral,37,U+1F634,sleeping face
+face-neutral,38,U+1F60C,relieved face
+face-neutral,39,U+1F61B,face with tongue
+face-neutral,40,U+1F61C,winking face with tongue
+face-neutral,41,U+1F61D,squinting face with tongue
+face-neutral,42,U+1F924,drooling face
+face-neutral,43,U+1F612,unamused face
+face-neutral,44,U+1F613,downcast face with sweat
+face-neutral,45,U+1F614,pensive face
+face-neutral,46,U+1F615,confused face
+face-neutral,47,U+1F643,upside-down face
+face-neutral,48,U+1F911,money-mouth face
+face-neutral,49,U+1F632,astonished face
+face-negative,50,U+2639,frowning face
+face-negative,51,U+1F641,slightly frowning face
+face-negative,52,U+1F616,confounded face
+face-negative,53,U+1F61E,disappointed face
+face-negative,54,U+1F61F,worried face
+face-negative,55,U+1F624,face with steam from nose
+face-negative,56,U+1F622,crying face
+face-negative,57,U+1F62D,loudly crying face
+face-negative,58,U+1F626,frowning face with open mouth
+face-negative,59,U+1F627,anguished face
+face-negative,60,U+1F628,fearful face
+face-negative,61,U+1F629,weary face
+face-negative,62,U+1F92F,exploding head
+face-negative,63,U+1F62C,grimacing face
+face-negative,64,U+1F630,anxious face with sweat
+face-negative,65,U+1F631,face screaming in fear
+face-negative,66,U+1F975,? hot face
+face-negative,67,U+1F976,? cold face
+face-negative,68,U+1F633,flushed face
+face-negative,69,U+1F92A,zany face
+face-negative,70,U+1F635,dizzy face
+face-negative,71,U+1F621,pouting face
+face-negative,72,U+1F620,angry face
+face-negative,73,U+1F92C,face with symbols on mouth
+face-sick,74,U+1F637,face with medical mask
+face-sick,75,U+1F912,face with thermometer
+face-sick,76,U+1F915,face with head-bandage
+face-sick,77,U+1F922,nauseated face
+face-sick,78,U+1F92E,face vomiting
+face-sick,79,U+1F927,sneezing face
+face-role,80,U+1F607,smiling face with halo
+face-role,81,U+1F920,cowboy hat face
+face-role,82,U+1F973,? partying face
+face-role,83,U+1F974,? woozy face
+face-role,84,U+1F97A,? pleading face
+face-role,85,U+1F925,lying face
+face-role,86,U+1F92B,shushing face
+face-role,87,U+1F92D,face with hand over mouth
+face-role,88,U+1F9D0,face with monocle
+face-role,89,U+1F913,nerd face
+face-fantasy,90,U+1F608,smiling face with horns
+face-fantasy,91,U+1F47F,angry face with horns
+face-fantasy,92,U+1F921,clown face
+face-fantasy,93,U+1F479,ogre
+face-fantasy,94,U+1F47A,goblin
+face-fantasy,95,U+1F480,skull
+face-fantasy,96,U+2620,skull and crossbones
+face-fantasy,97,U+1F47B,ghost
+face-fantasy,98,U+1F47D,alien
+face-fantasy,99,U+1F47E,alien monster
+face-fantasy,100,U+1F916,robot face
+face-fantasy,101,U+1F4A9,pile of poo
+cat-face,102,U+1F63A,grinning cat face
+cat-face,103,U+1F638,grinning cat face with smiling eyes
+cat-face,104,U+1F639,cat face with tears of joy
+cat-face,105,U+1F63B,smiling cat face with heart-eyes
+cat-face,106,U+1F63C,cat face with wry smile
+cat-face,107,U+1F63D,kissing cat face
+cat-face,108,U+1F640,weary cat face
+cat-face,109,U+1F63F,crying cat face
+cat-face,110,U+1F63E,pouting cat face
+monkey-face,111,U+1F648,see-no-evil monkey
+monkey-face,112,U+1F649,hear-no-evil monkey
+monkey-face,113,U+1F64A,speak-no-evil monkey
+person,114,U+1F476,baby
+person,115,U+1F9D2,child
+person,116,U+1F466,boy
+person,117,U+1F467,girl
+person,118,U+1F9D1,person
+person,119,U+1F471,person: blond hair
+person,120,U+1F468,man
+person,121,U+1F471 U+200D U+2642 U+FE0F,man: blond hair
+person,122,U+1F468 U+200D U+1F9B0,? man: red hair
+person,123,U+1F468 U+200D U+1F9B1,? man: curly hair
+person,124,U+1F468 U+200D U+1F9B3,? man: white hair
+person,125,U+1F468 U+200D U+1F9B2,? man: bald
+person,126,U+1F9D4,man: beard
+person,127,U+1F469,woman
+person,128,U+1F471 U+200D U+2640 U+FE0F,woman: blond hair
+person,129,U+1F469 U+200D U+1F9B0,? woman: red hair
+person,130,U+1F469 U+200D U+1F9B1,? woman: curly hair
+person,131,U+1F469 U+200D U+1F9B3,? woman: white hair
+person,132,U+1F469 U+200D U+1F9B2,? woman: bald
+person,133,U+1F9D3,older person
+person,134,U+1F474,old man
+person,135,U+1F475,old woman
+person-role,136,U+1F468 U+200D U+2695 U+FE0F,man health worker
+person-role,137,U+1F469 U+200D U+2695 U+FE0F,woman health worker
+person-role,138,U+1F468 U+200D U+1F393,man student
+person-role,139,U+1F469 U+200D U+1F393,woman student
+person-role,140,U+1F468 U+200D U+1F3EB,man teacher
+person-role,141,U+1F469 U+200D U+1F3EB,woman teacher
+person-role,142,U+1F468 U+200D U+2696 U+FE0F,man judge
+person-role,143,U+1F469 U+200D U+2696 U+FE0F,woman judge
+person-role,144,U+1F468 U+200D U+1F33E,man farmer
+person-role,145,U+1F469 U+200D U+1F33E,woman farmer
+person-role,146,U+1F468 U+200D U+1F373,man cook
+person-role,147,U+1F469 U+200D U+1F373,woman cook
+person-role,148,U+1F468 U+200D U+1F527,man mechanic
+person-role,149,U+1F469 U+200D U+1F527,woman mechanic
+person-role,150,U+1F468 U+200D U+1F3ED,man factory worker
+person-role,151,U+1F469 U+200D U+1F3ED,woman factory worker
+person-role,152,U+1F468 U+200D U+1F4BC,man office worker
+person-role,153,U+1F469 U+200D U+1F4BC,woman office worker
+person-role,154,U+1F468 U+200D U+1F52C,man scientist
+person-role,155,U+1F469 U+200D U+1F52C,woman scientist
+person-role,156,U+1F468 U+200D U+1F4BB,man technologist
+person-role,157,U+1F469 U+200D U+1F4BB,woman technologist
+person-role,158,U+1F468 U+200D U+1F3A4,man singer
+person-role,159,U+1F469 U+200D U+1F3A4,woman singer
+person-role,160,U+1F468 U+200D U+1F3A8,man artist
+person-role,161,U+1F469 U+200D U+1F3A8,woman artist
+person-role,162,U+1F468 U+200D U+2708 U+FE0F,man pilot
+person-role,163,U+1F469 U+200D U+2708 U+FE0F,woman pilot
+person-role,164,U+1F468 U+200D U+1F680,man astronaut
+person-role,165,U+1F469 U+200D U+1F680,woman astronaut
+person-role,166,U+1F468 U+200D U+1F692,man firefighter
+person-role,167,U+1F469 U+200D U+1F692,woman firefighter
+person-role,168,U+1F46E,police officer
+person-role,169,U+1F46E U+200D U+2642 U+FE0F,man police officer
+person-role,170,U+1F46E U+200D U+2640 U+FE0F,woman police officer
+person-role,171,U+1F575,detective
+person-role,172,U+1F575 U+FE0F U+200D U+2642 U+FE0F,man detective
+person-role,173,U+1F575 U+FE0F U+200D U+2640 U+FE0F,woman detective
+person-role,174,U+1F482,guard
+person-role,175,U+1F482 U+200D U+2642 U+FE0F,man guard
+person-role,176,U+1F482 U+200D U+2640 U+FE0F,woman guard
+person-role,177,U+1F477,construction worker
+person-role,178,U+1F477 U+200D U+2642 U+FE0F,man construction worker
+person-role,179,U+1F477 U+200D U+2640 U+FE0F,woman construction worker
+person-role,180,U+1F934,prince
+person-role,181,U+1F478,princess
+person-role,182,U+1F473,person wearing turban
+person-role,183,U+1F473 U+200D U+2642 U+FE0F,man wearing turban
+person-role,184,U+1F473 U+200D U+2640 U+FE0F,woman wearing turban
+person-role,185,U+1F472,man with Chinese cap
+person-role,186,U+1F9D5,woman with headscarf
+person-role,187,U+1F935,man in tuxedo
+person-role,188,U+1F470,bride with veil
+person-role,189,U+1F930,pregnant woman
+person-role,190,U+1F931,breast-feeding
+person-fantasy,191,U+1F47C,baby angel
+person-fantasy,192,U+1F385,Santa Claus
+person-fantasy,193,U+1F936,Mrs. Claus
+person-fantasy,194,U+1F9B8,? superhero
+person-fantasy,195,U+1F9B8 U+200D U+2640 U+FE0F,? woman superhero
+person-fantasy,196,U+1F9B8 U+200D U+2642 U+FE0F,? man superhero
+person-fantasy,197,U+1F9B9,? supervillain
+person-fantasy,198,U+1F9B9 U+200D U+2640 U+FE0F,? woman supervillain
+person-fantasy,199,U+1F9B9 U+200D U+2642 U+FE0F,? man supervillain
+person-fantasy,200,U+1F9D9,mage
+person-fantasy,201,U+1F9D9 U+200D U+2640 U+FE0F,woman mage
+person-fantasy,202,U+1F9D9 U+200D U+2642 U+FE0F,man mage
+person-fantasy,203,U+1F9DA,fairy
+person-fantasy,204,U+1F9DA U+200D U+2640 U+FE0F,woman fairy
+person-fantasy,205,U+1F9DA U+200D U+2642 U+FE0F,man fairy
+person-fantasy,206,U+1F9DB,vampire
+person-fantasy,207,U+1F9DB U+200D U+2640 U+FE0F,woman vampire
+person-fantasy,208,U+1F9DB U+200D U+2642 U+FE0F,man vampire
+person-fantasy,209,U+1F9DC,merperson
+person-fantasy,210,U+1F9DC U+200D U+2640 U+FE0F,mermaid
+person-fantasy,211,U+1F9DC U+200D U+2642 U+FE0F,merman
+person-fantasy,212,U+1F9DD,elf
+person-fantasy,213,U+1F9DD U+200D U+2640 U+FE0F,woman elf
+person-fantasy,214,U+1F9DD U+200D U+2642 U+FE0F,man elf
+person-fantasy,215,U+1F9DE,genie
+person-fantasy,216,U+1F9DE U+200D U+2640 U+FE0F,woman genie
+person-fantasy,217,U+1F9DE U+200D U+2642 U+FE0F,man genie
+person-fantasy,218,U+1F9DF,zombie
+person-fantasy,219,U+1F9DF U+200D U+2640 U+FE0F,woman zombie
+person-fantasy,220,U+1F9DF U+200D U+2642 U+FE0F,man zombie
+person-gesture,221,U+1F64D,person frowning
+person-gesture,222,U+1F64D U+200D U+2642 U+FE0F,man frowning
+person-gesture,223,U+1F64D U+200D U+2640 U+FE0F,woman frowning
+person-gesture,224,U+1F64E,person pouting
+person-gesture,225,U+1F64E U+200D U+2642 U+FE0F,man pouting
+person-gesture,226,U+1F64E U+200D U+2640 U+FE0F,woman pouting
+person-gesture,227,U+1F645,person gesturing NO
+person-gesture,228,U+1F645 U+200D U+2642 U+FE0F,man gesturing NO
+person-gesture,229,U+1F645 U+200D U+2640 U+FE0F,woman gesturing NO
+person-gesture,230,U+1F646,person gesturing OK
+person-gesture,231,U+1F646 U+200D U+2642 U+FE0F,man gesturing OK
+person-gesture,232,U+1F646 U+200D U+2640 U+FE0F,woman gesturing OK
+person-gesture,233,U+1F481,person tipping hand
+person-gesture,234,U+1F481 U+200D U+2642 U+FE0F,man tipping hand
+person-gesture,235,U+1F481 U+200D U+2640 U+FE0F,woman tipping hand
+person-gesture,236,U+1F64B,person raising hand
+person-gesture,237,U+1F64B U+200D U+2642 U+FE0F,man raising hand
+person-gesture,238,U+1F64B U+200D U+2640 U+FE0F,woman raising hand
+person-gesture,239,U+1F647,person bowing
+person-gesture,240,U+1F647 U+200D U+2642 U+FE0F,man bowing
+person-gesture,241,U+1F647 U+200D U+2640 U+FE0F,woman bowing
+person-gesture,242,U+1F926,person facepalming
+person-gesture,243,U+1F926 U+200D U+2642 U+FE0F,man facepalming
+person-gesture,244,U+1F926 U+200D U+2640 U+FE0F,woman facepalming
+person-gesture,245,U+1F937,person shrugging
+person-gesture,246,U+1F937 U+200D U+2642 U+FE0F,man shrugging
+person-gesture,247,U+1F937 U+200D U+2640 U+FE0F,woman shrugging
+person-activity,248,U+1F486,person getting massage
+person-activity,249,U+1F486 U+200D U+2642 U+FE0F,man getting massage
+person-activity,250,U+1F486 U+200D U+2640 U+FE0F,woman getting massage
+person-activity,251,U+1F487,person getting haircut
+person-activity,252,U+1F487 U+200D U+2642 U+FE0F,man getting haircut
+person-activity,253,U+1F487 U+200D U+2640 U+FE0F,woman getting haircut
+person-activity,254,U+1F6B6,person walking
+person-activity,255,U+1F6B6 U+200D U+2642 U+FE0F,man walking
+person-activity,256,U+1F6B6 U+200D U+2640 U+FE0F,woman walking
+person-activity,257,U+1F3C3,person running
+person-activity,258,U+1F3C3 U+200D U+2642 U+FE0F,man running
+person-activity,259,U+1F3C3 U+200D U+2640 U+FE0F,woman running
+person-activity,260,U+1F483,woman dancing
+person-activity,261,U+1F57A,man dancing
+person-activity,262,U+1F46F,people with bunny ears
+person-activity,263,U+1F46F U+200D U+2642 U+FE0F,men with bunny ears
+person-activity,264,U+1F46F U+200D U+2640 U+FE0F,women with bunny ears
+person-activity,265,U+1F9D6,person in steamy room
+person-activity,266,U+1F9D6 U+200D U+2640 U+FE0F,woman in steamy room
+person-activity,267,U+1F9D6 U+200D U+2642 U+FE0F,man in steamy room
+person-activity,268,U+1F9D7,person climbing
+person-activity,269,U+1F9D7 U+200D U+2640 U+FE0F,woman climbing
+person-activity,270,U+1F9D7 U+200D U+2642 U+FE0F,man climbing
+person-activity,271,U+1F9D8,person in lotus position
+person-activity,272,U+1F9D8 U+200D U+2640 U+FE0F,woman in lotus position
+person-activity,273,U+1F9D8 U+200D U+2642 U+FE0F,man in lotus position
+person-activity,274,U+1F6C0,person taking bath
+person-activity,275,U+1F6CC,person in bed
+person-activity,276,U+1F574,man in suit levitating
+person-activity,277,U+1F5E3,speaking head
+person-activity,278,U+1F464,bust in silhouette
+person-activity,279,U+1F465,busts in silhouette
+person-sport,280,U+1F93A,person fencing
+person-sport,281,U+1F3C7,horse racing
+person-sport,282,U+26F7,skier
+person-sport,283,U+1F3C2,snowboarder
+person-sport,284,U+1F3CC,person golfing
+person-sport,285,U+1F3CC U+FE0F U+200D U+2642 U+FE0F,man golfing
+person-sport,286,U+1F3CC U+FE0F U+200D U+2640 U+FE0F,woman golfing
+person-sport,287,U+1F3C4,person surfing
+person-sport,288,U+1F3C4 U+200D U+2642 U+FE0F,man surfing
+person-sport,289,U+1F3C4 U+200D U+2640 U+FE0F,woman surfing
+person-sport,290,U+1F6A3,person rowing boat
+person-sport,291,U+1F6A3 U+200D U+2642 U+FE0F,man rowing boat
+person-sport,292,U+1F6A3 U+200D U+2640 U+FE0F,woman rowing boat
+person-sport,293,U+1F3CA,person swimming
+person-sport,294,U+1F3CA U+200D U+2642 U+FE0F,man swimming
+person-sport,295,U+1F3CA U+200D U+2640 U+FE0F,woman swimming
+person-sport,296,U+26F9,person bouncing ball
+person-sport,297,U+26F9 U+FE0F U+200D U+2642 U+FE0F,man bouncing ball
+person-sport,298,U+26F9 U+FE0F U+200D U+2640 U+FE0F,woman bouncing ball
+person-sport,299,U+1F3CB,person lifting weights
+person-sport,300,U+1F3CB U+FE0F U+200D U+2642 U+FE0F,man lifting weights
+person-sport,301,U+1F3CB U+FE0F U+200D U+2640 U+FE0F,woman lifting weights
+person-sport,302,U+1F6B4,person biking
+person-sport,303,U+1F6B4 U+200D U+2642 U+FE0F,man biking
+person-sport,304,U+1F6B4 U+200D U+2640 U+FE0F,woman biking
+person-sport,305,U+1F6B5,person mountain biking
+person-sport,306,U+1F6B5 U+200D U+2642 U+FE0F,man mountain biking
+person-sport,307,U+1F6B5 U+200D U+2640 U+FE0F,woman mountain biking
+person-sport,308,U+1F3CE,racing car
+person-sport,309,U+1F3CD,motorcycle
+person-sport,310,U+1F938,person cartwheeling
+person-sport,311,U+1F938 U+200D U+2642 U+FE0F,man cartwheeling
+person-sport,312,U+1F938 U+200D U+2640 U+FE0F,woman cartwheeling
+person-sport,313,U+1F93C,people wrestling
+person-sport,314,U+1F93C U+200D U+2642 U+FE0F,men wrestling
+person-sport,315,U+1F93C U+200D U+2640 U+FE0F,women wrestling
+person-sport,316,U+1F93D,person playing water polo
+person-sport,317,U+1F93D U+200D U+2642 U+FE0F,man playing water polo
+person-sport,318,U+1F93D U+200D U+2640 U+FE0F,woman playing water polo
+person-sport,319,U+1F93E,person playing handball
+person-sport,320,U+1F93E U+200D U+2642 U+FE0F,man playing handball
+person-sport,321,U+1F93E U+200D U+2640 U+FE0F,woman playing handball
+person-sport,322,U+1F939,person juggling
+person-sport,323,U+1F939 U+200D U+2642 U+FE0F,man juggling
+person-sport,324,U+1F939 U+200D U+2640 U+FE0F,woman juggling
+family,325,U+1F46B,man and woman holding hands
+family,326,U+1F46C,two men holding hands
+family,327,U+1F46D,two women holding hands
+family,328,U+1F48F,kiss
+family,329,U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468,"kiss: woman, man"
+family,330,U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468,"kiss: man, man"
+family,331,U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469,"kiss: woman, woman"
+family,332,U+1F491,couple with heart
+family,333,U+1F469 U+200D U+2764 U+FE0F U+200D U+1F468,"couple with heart: woman, man"
+family,334,U+1F468 U+200D U+2764 U+FE0F U+200D U+1F468,"couple with heart: man, man"
+family,335,U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469,"couple with heart: woman, woman"
+family,336,U+1F46A,family
+family,337,U+1F468 U+200D U+1F469 U+200D U+1F466,"family: man, woman, boy"
+family,338,U+1F468 U+200D U+1F469 U+200D U+1F467,"family: man, woman, girl"
+family,339,U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466,"family: man, woman, girl, boy"
+family,340,U+1F468 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466,"family: man, woman, boy, boy"
+family,341,U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467,"family: man, woman, girl, girl"
+family,342,U+1F468 U+200D U+1F468 U+200D U+1F466,"family: man, man, boy"
+family,343,U+1F468 U+200D U+1F468 U+200D U+1F467,"family: man, man, girl"
+family,344,U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466,"family: man, man, girl, boy"
+family,345,U+1F468 U+200D U+1F468 U+200D U+1F466 U+200D U+1F466,"family: man, man, boy, boy"
+family,346,U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F467,"family: man, man, girl, girl"
+family,347,U+1F469 U+200D U+1F469 U+200D U+1F466,"family: woman, woman, boy"
+family,348,U+1F469 U+200D U+1F469 U+200D U+1F467,"family: woman, woman, girl"
+family,349,U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466,"family: woman, woman, girl, boy"
+family,350,U+1F469 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466,"family: woman, woman, boy, boy"
+family,351,U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467,"family: woman, woman, girl, girl"
+family,352,U+1F468 U+200D U+1F466,"family: man, boy"
+family,353,U+1F468 U+200D U+1F466 U+200D U+1F466,"family: man, boy, boy"
+family,354,U+1F468 U+200D U+1F467,"family: man, girl"
+family,355,U+1F468 U+200D U+1F467 U+200D U+1F466,"family: man, girl, boy"
+family,356,U+1F468 U+200D U+1F467 U+200D U+1F467,"family: man, girl, girl"
+family,357,U+1F469 U+200D U+1F466,"family: woman, boy"
+family,358,U+1F469 U+200D U+1F466 U+200D U+1F466,"family: woman, boy, boy"
+family,359,U+1F469 U+200D U+1F467,"family: woman, girl"
+family,360,U+1F469 U+200D U+1F467 U+200D U+1F466,"family: woman, girl, boy"
+family,361,U+1F469 U+200D U+1F467 U+200D U+1F467,"family: woman, girl, girl"
+body,362,U+1F933,selfie
+body,363,U+1F4AA,flexed biceps
+body,364,U+1F9B5,? leg
+body,365,U+1F9B6,? foot
+body,366,U+1F448,backhand index pointing left
+body,367,U+1F449,backhand index pointing right
+body,368,U+261D,index pointing up
+body,369,U+1F446,backhand index pointing up
+body,370,U+1F595,middle finger
+body,371,U+1F447,backhand index pointing down
+body,372,U+270C,victory hand
+body,373,U+1F91E,crossed fingers
+body,374,U+1F596,vulcan salute
+body,375,U+1F918,sign of the horns
+body,376,U+1F919,call me hand
+body,377,U+1F590,hand with fingers splayed
+body,378,U+270B,raised hand
+body,379,U+1F44C,OK hand
+body,380,U+1F44D,thumbs up
+body,381,U+1F44E,thumbs down
+body,382,U+270A,raised fist
+body,383,U+1F44A,oncoming fist
+body,384,U+1F91B,left-facing fist
+body,385,U+1F91C,right-facing fist
+body,386,U+1F91A,raised back of hand
+body,387,U+1F44B,waving hand
+body,388,U+1F91F,love-you gesture
+body,389,U+270D,writing hand
+body,390,U+1F44F,clapping hands
+body,391,U+1F450,open hands
+body,392,U+1F64C,raising hands
+body,393,U+1F932,palms up together
+body,394,U+1F64F,folded hands
+body,395,U+1F91D,handshake
+body,396,U+1F485,nail polish
+body,397,U+1F442,ear
+body,398,U+1F443,nose
+body,399,U+1F463,footprints
+body,400,U+1F440,eyes
+body,401,U+1F441,eye
+body,402,U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F,eye in speech bubble
+body,403,U+1F9E0,brain
+body,404,U+1F9B4,? bone
+body,405,U+1F9B7,? tooth
+body,406,U+1F445,tongue
+body,407,U+1F444,mouth
+hair-style,408,U+1F9B0,? red hair
+hair-style,409,U+1F9B1,? curly hair
+hair-style,410,U+1F9B3,? white hair
+hair-style,411,U+1F9B2,? bald
+emotion,412,U+1F48B,kiss mark
+emotion,413,U+1F498,heart with arrow
+emotion,414,U+1F49D,heart with ribbon
+emotion,415,U+1F496,sparkling heart
+emotion,416,U+1F497,growing heart
+emotion,417,U+1F493,beating heart
+emotion,418,U+1F49E,revolving hearts
+emotion,419,U+1F495,two hearts
+emotion,420,U+1F48C,love letter
+emotion,421,U+2763,heavy heart exclamation
+emotion,422,U+1F494,broken heart
+emotion,423,U+2764,red heart
+emotion,424,U+1F9E1,orange heart
+emotion,425,U+1F49B,yellow heart
+emotion,426,U+1F49A,green heart
+emotion,427,U+1F499,blue heart
+emotion,428,U+1F49C,purple heart
+emotion,429,U+1F5A4,black heart
+emotion,430,U+1F49F,heart decoration
+emotion,431,U+1F4A4,zzz
+emotion,432,U+1F4A2,anger symbol
+emotion,433,U+1F4A3,bomb
+emotion,434,U+1F4A5,collision
+emotion,435,U+1F4A6,sweat droplets
+emotion,436,U+1F4A8,dashing away
+emotion,437,U+1F4AB,dizzy
+emotion,438,U+1F4AC,speech balloon
+emotion,439,U+1F5E8,left speech bubble
+emotion,440,U+1F5EF,right anger bubble
+emotion,441,U+1F4AD,thought balloon
+emotion,442,U+1F573,hole
+clothing,443,U+1F453,glasses
+clothing,444,U+1F576,sunglasses
+clothing,445,U+1F97D,? goggles
+clothing,446,U+1F97C,? lab coat
+clothing,447,U+1F454,necktie
+clothing,448,U+1F455,t-shirt
+clothing,449,U+1F456,jeans
+clothing,450,U+1F9E3,scarf
+clothing,451,U+1F9E4,gloves
+clothing,452,U+1F9E5,coat
+clothing,453,U+1F9E6,socks
+clothing,454,U+1F457,dress
+clothing,455,U+1F458,kimono
+clothing,456,U+1F459,bikini
+clothing,457,U+1F45A,woman’s clothes
+clothing,458,U+1F45B,purse
+clothing,459,U+1F45C,handbag
+clothing,460,U+1F45D,clutch bag
+clothing,461,U+1F6CD,shopping bags
+clothing,462,U+1F392,backpack
+clothing,463,U+1F45E,man’s shoe
+clothing,464,U+1F45F,running shoe
+clothing,465,U+1F97E,? hiking boot
+clothing,466,U+1F97F,? flat shoe
+clothing,467,U+1F460,high-heeled shoe
+clothing,468,U+1F461,woman’s sandal
+clothing,469,U+1F462,woman’s boot
+clothing,470,U+1F451,crown
+clothing,471,U+1F452,woman’s hat
+clothing,472,U+1F3A9,top hat
+clothing,473,U+1F393,graduation cap
+clothing,474,U+1F9E2,billed cap
+clothing,475,U+26D1,rescue worker’s helmet
+clothing,476,U+1F4FF,prayer beads
+clothing,477,U+1F484,lipstick
+clothing,478,U+1F48D,ring
+clothing,479,U+1F48E,gem stone
+animal-mammal,480,U+1F435,monkey face
+animal-mammal,481,U+1F412,monkey
+animal-mammal,482,U+1F98D,gorilla
+animal-mammal,483,U+1F436,dog face
+animal-mammal,484,U+1F415,dog
+animal-mammal,485,U+1F429,poodle
+animal-mammal,486,U+1F43A,wolf face
+animal-mammal,487,U+1F98A,fox face
+animal-mammal,488,U+1F99D,? raccoon
+animal-mammal,489,U+1F431,cat face
+animal-mammal,490,U+1F408,cat
+animal-mammal,491,U+1F981,lion face
+animal-mammal,492,U+1F42F,tiger face
+animal-mammal,493,U+1F405,tiger
+animal-mammal,494,U+1F406,leopard
+animal-mammal,495,U+1F434,horse face
+animal-mammal,496,U+1F40E,horse
+animal-mammal,497,U+1F984,unicorn face
+animal-mammal,498,U+1F993,zebra
+animal-mammal,499,U+1F98C,deer
+animal-mammal,500,U+1F42E,cow face
+animal-mammal,501,U+1F402,ox
+animal-mammal,502,U+1F403,water buffalo
+animal-mammal,503,U+1F404,cow
+animal-mammal,504,U+1F437,pig face
+animal-mammal,505,U+1F416,pig
+animal-mammal,506,U+1F417,boar
+animal-mammal,507,U+1F43D,pig nose
+animal-mammal,508,U+1F40F,ram
+animal-mammal,509,U+1F411,ewe
+animal-mammal,510,U+1F410,goat
+animal-mammal,511,U+1F42A,camel
+animal-mammal,512,U+1F42B,two-hump camel
+animal-mammal,513,U+1F999,? llama
+animal-mammal,514,U+1F992,giraffe
+animal-mammal,515,U+1F418,elephant
+animal-mammal,516,U+1F98F,rhinoceros
+animal-mammal,517,U+1F99B,? hippopotamus
+animal-mammal,518,U+1F42D,mouse face
+animal-mammal,519,U+1F401,mouse
+animal-mammal,520,U+1F400,rat
+animal-mammal,521,U+1F439,hamster face
+animal-mammal,522,U+1F430,rabbit face
+animal-mammal,523,U+1F407,rabbit
+animal-mammal,524,U+1F43F,chipmunk
+animal-mammal,525,U+1F994,hedgehog
+animal-mammal,526,U+1F987,bat
+animal-mammal,527,U+1F43B,bear face
+animal-mammal,528,U+1F428,koala
+animal-mammal,529,U+1F43C,panda face
+animal-mammal,530,U+1F998,? kangaroo
+animal-mammal,531,U+1F9A1,? badger
+animal-mammal,532,U+1F43E,paw prints
+animal-bird,533,U+1F983,turkey
+animal-bird,534,U+1F414,chicken
+animal-bird,535,U+1F413,rooster
+animal-bird,536,U+1F423,hatching chick
+animal-bird,537,U+1F424,baby chick
+animal-bird,538,U+1F425,front-facing baby chick
+animal-bird,539,U+1F426,bird
+animal-bird,540,U+1F427,penguin
+animal-bird,541,U+1F54A,dove
+animal-bird,542,U+1F985,eagle
+animal-bird,543,U+1F986,duck
+animal-bird,544,U+1F9A2,? swan
+animal-bird,545,U+1F989,owl
+animal-bird,546,U+1F99A,? peacock
+animal-bird,547,U+1F99C,? parrot
+animal-amphibian,548,U+1F438,frog face
+animal-reptile,549,U+1F40A,crocodile
+animal-reptile,550,U+1F422,turtle
+animal-reptile,551,U+1F98E,lizard
+animal-reptile,552,U+1F40D,snake
+animal-reptile,553,U+1F432,dragon face
+animal-reptile,554,U+1F409,dragon
+animal-reptile,555,U+1F995,sauropod
+animal-reptile,556,U+1F996,T-Rex
+animal-marine,557,U+1F433,spouting whale
+animal-marine,558,U+1F40B,whale
+animal-marine,559,U+1F42C,dolphin
+animal-marine,560,U+1F41F,fish
+animal-marine,561,U+1F420,tropical fish
+animal-marine,562,U+1F421,blowfish
+animal-marine,563,U+1F988,shark
+animal-marine,564,U+1F419,octopus
+animal-marine,565,U+1F41A,spiral shell
+animal-marine,566,U+1F980,crab
+animal-marine,567,U+1F99E,? lobster
+animal-marine,568,U+1F990,shrimp
+animal-marine,569,U+1F991,squid
+animal-bug,570,U+1F40C,snail
+animal-bug,571,U+1F98B,butterfly
+animal-bug,572,U+1F41B,bug
+animal-bug,573,U+1F41C,ant
+animal-bug,574,U+1F41D,honeybee
+animal-bug,575,U+1F41E,lady beetle
+animal-bug,576,U+1F997,cricket
+animal-bug,577,U+1F577,spider
+animal-bug,578,U+1F578,spider web
+animal-bug,579,U+1F982,scorpion
+animal-bug,580,U+1F99F,? mosquito
+animal-bug,581,U+1F9A0,? microbe
+plant-flower,582,U+1F490,bouquet
+plant-flower,583,U+1F338,cherry blossom
+plant-flower,584,U+1F4AE,white flower
+plant-flower,585,U+1F3F5,rosette
+plant-flower,586,U+1F339,rose
+plant-flower,587,U+1F940,wilted flower
+plant-flower,588,U+1F33A,hibiscus
+plant-flower,589,U+1F33B,sunflower
+plant-flower,590,U+1F33C,blossom
+plant-flower,591,U+1F337,tulip
+plant-other,592,U+1F331,seedling
+plant-other,593,U+1F332,evergreen tree
+plant-other,594,U+1F333,deciduous tree
+plant-other,595,U+1F334,palm tree
+plant-other,596,U+1F335,cactus
+plant-other,597,U+1F33E,sheaf of rice
+plant-other,598,U+1F33F,herb
+plant-other,599,U+2618,shamrock
+plant-other,600,U+1F340,four leaf clover
+plant-other,601,U+1F341,maple leaf
+plant-other,602,U+1F342,fallen leaf
+plant-other,603,U+1F343,leaf fluttering in wind
+food-fruit,604,U+1F347,grapes
+food-fruit,605,U+1F348,melon
+food-fruit,606,U+1F349,watermelon
+food-fruit,607,U+1F34A,tangerine
+food-fruit,608,U+1F34B,lemon
+food-fruit,609,U+1F34C,banana
+food-fruit,610,U+1F34D,pineapple
+food-fruit,611,U+1F96D,? mango
+food-fruit,612,U+1F34E,red apple
+food-fruit,613,U+1F34F,green apple
+food-fruit,614,U+1F350,pear
+food-fruit,615,U+1F351,peach
+food-fruit,616,U+1F352,cherries
+food-fruit,617,U+1F353,strawberry
+food-fruit,618,U+1F95D,kiwi fruit
+food-fruit,619,U+1F345,tomato
+food-fruit,620,U+1F965,coconut
+food-vegetable,621,U+1F951,avocado
+food-vegetable,622,U+1F346,eggplant
+food-vegetable,623,U+1F954,potato
+food-vegetable,624,U+1F955,carrot
+food-vegetable,625,U+1F33D,ear of corn
+food-vegetable,626,U+1F336,hot pepper
+food-vegetable,627,U+1F952,cucumber
+food-vegetable,628,U+1F96C,? leafy green
+food-vegetable,629,U+1F966,broccoli
+food-vegetable,630,U+1F344,mushroom
+food-vegetable,631,U+1F95C,peanuts
+food-vegetable,632,U+1F330,chestnut
+food-prepared,633,U+1F35E,bread
+food-prepared,634,U+1F950,croissant
+food-prepared,635,U+1F956,baguette bread
+food-prepared,636,U+1F968,pretzel
+food-prepared,637,U+1F96F,? bagel
+food-prepared,638,U+1F95E,pancakes
+food-prepared,639,U+1F9C0,cheese wedge
+food-prepared,640,U+1F356,meat on bone
+food-prepared,641,U+1F357,poultry leg
+food-prepared,642,U+1F969,cut of meat
+food-prepared,643,U+1F953,bacon
+food-prepared,644,U+1F354,hamburger
+food-prepared,645,U+1F35F,french fries
+food-prepared,646,U+1F355,pizza
+food-prepared,647,U+1F32D,hot dog
+food-prepared,648,U+1F96A,sandwich
+food-prepared,649,U+1F32E,taco
+food-prepared,650,U+1F32F,burrito
+food-prepared,651,U+1F959,stuffed flatbread
+food-prepared,652,U+1F95A,egg
+food-prepared,653,U+1F373,cooking
+food-prepared,654,U+1F958,shallow pan of food
+food-prepared,655,U+1F372,pot of food
+food-prepared,656,U+1F963,bowl with spoon
+food-prepared,657,U+1F957,green salad
+food-prepared,658,U+1F37F,popcorn
+food-prepared,659,U+1F9C2,? salt
+food-prepared,660,U+1F96B,canned food
+food-asian,661,U+1F371,bento box
+food-asian,662,U+1F358,rice cracker
+food-asian,663,U+1F359,rice ball
+food-asian,664,U+1F35A,cooked rice
+food-asian,665,U+1F35B,curry rice
+food-asian,666,U+1F35C,steaming bowl
+food-asian,667,U+1F35D,spaghetti
+food-asian,668,U+1F360,roasted sweet potato
+food-asian,669,U+1F362,oden
+food-asian,670,U+1F363,sushi
+food-asian,671,U+1F364,fried shrimp
+food-asian,672,U+1F365,fish cake with swirl
+food-asian,673,U+1F96E,? moon cake
+food-asian,674,U+1F361,dango
+food-asian,675,U+1F95F,dumpling
+food-asian,676,U+1F960,fortune cookie
+food-asian,677,U+1F961,takeout box
+food-sweet,678,U+1F366,soft ice cream
+food-sweet,679,U+1F367,shaved ice
+food-sweet,680,U+1F368,ice cream
+food-sweet,681,U+1F369,doughnut
+food-sweet,682,U+1F36A,cookie
+food-sweet,683,U+1F382,birthday cake
+food-sweet,684,U+1F370,shortcake
+food-sweet,685,U+1F9C1,? cupcake
+food-sweet,686,U+1F967,pie
+food-sweet,687,U+1F36B,chocolate bar
+food-sweet,688,U+1F36C,candy
+food-sweet,689,U+1F36D,lollipop
+food-sweet,690,U+1F36E,custard
+food-sweet,691,U+1F36F,honey pot
+drink,692,U+1F37C,baby bottle
+drink,693,U+1F95B,glass of milk
+drink,694,U+2615,hot beverage
+drink,695,U+1F375,teacup without handle
+drink,696,U+1F376,sake
+drink,697,U+1F37E,bottle with popping cork
+drink,698,U+1F377,wine glass
+drink,699,U+1F378,cocktail glass
+drink,700,U+1F379,tropical drink
+drink,701,U+1F37A,beer mug
+drink,702,U+1F37B,clinking beer mugs
+drink,703,U+1F942,clinking glasses
+drink,704,U+1F943,tumbler glass
+drink,705,U+1F964,cup with straw
+dishware,706,U+1F962,chopsticks
+dishware,707,U+1F37D,fork and knife with plate
+dishware,708,U+1F374,fork and knife
+dishware,709,U+1F944,spoon
+dishware,710,U+1F52A,kitchen knife
+dishware,711,U+1F3FA,amphora
+place-map,712,U+1F30D,globe showing Europe-Africa
+place-map,713,U+1F30E,globe showing Americas
+place-map,714,U+1F30F,globe showing Asia-Australia
+place-map,715,U+1F310,globe with meridians
+place-map,716,U+1F5FA,world map
+place-map,717,U+1F5FE,map of Japan
+place-map,718,U+1F9ED,? compass
+place-geographic,719,U+1F3D4,snow-capped mountain
+place-geographic,720,U+26F0,mountain
+place-geographic,721,U+1F30B,volcano
+place-geographic,722,U+1F5FB,mount fuji
+place-geographic,723,U+1F3D5,camping
+place-geographic,724,U+1F3D6,beach with umbrella
+place-geographic,725,U+1F3DC,desert
+place-geographic,726,U+1F3DD,desert island
+place-geographic,727,U+1F3DE,national park
+place-building,728,U+1F3DF,stadium
+place-building,729,U+1F3DB,classical building
+place-building,730,U+1F3D7,building construction
+place-building,731,U+1F9F1,? brick
+place-building,732,U+1F3D8,houses
+place-building,733,U+1F3DA,derelict house
+place-building,734,U+1F3E0,house
+place-building,735,U+1F3E1,house with garden
+place-building,736,U+1F3E2,office building
+place-building,737,U+1F3E3,Japanese post office
+place-building,738,U+1F3E4,post office
+place-building,739,U+1F3E5,hospital
+place-building,740,U+1F3E6,bank
+place-building,741,U+1F3E8,hotel
+place-building,742,U+1F3E9,love hotel
+place-building,743,U+1F3EA,convenience store
+place-building,744,U+1F3EB,school
+place-building,745,U+1F3EC,department store
+place-building,746,U+1F3ED,factory
+place-building,747,U+1F3EF,Japanese castle
+place-building,748,U+1F3F0,castle
+place-building,749,U+1F492,wedding
+place-building,750,U+1F5FC,Tokyo tower
+place-building,751,U+1F5FD,Statue of Liberty
+place-religious,752,U+26EA,church
+place-religious,753,U+1F54C,mosque
+place-religious,754,U+1F54D,synagogue
+place-religious,755,U+26E9,shinto shrine
+place-religious,756,U+1F54B,kaaba
+place-other,757,U+26F2,fountain
+place-other,758,U+26FA,tent
+place-other,759,U+1F301,foggy
+place-other,760,U+1F303,night with stars
+place-other,761,U+1F3D9,cityscape
+place-other,762,U+1F304,sunrise over mountains
+place-other,763,U+1F305,sunrise
+place-other,764,U+1F306,cityscape at dusk
+place-other,765,U+1F307,sunset
+place-other,766,U+1F309,bridge at night
+place-other,767,U+2668,hot springs
+place-other,768,U+1F30C,milky way
+place-other,769,U+1F3A0,carousel horse
+place-other,770,U+1F3A1,ferris wheel
+place-other,771,U+1F3A2,roller coaster
+place-other,772,U+1F488,barber pole
+place-other,773,U+1F3AA,circus tent
+transport-ground,774,U+1F682,locomotive
+transport-ground,775,U+1F683,railway car
+transport-ground,776,U+1F684,high-speed train
+transport-ground,777,U+1F685,bullet train
+transport-ground,778,U+1F686,train
+transport-ground,779,U+1F687,metro
+transport-ground,780,U+1F688,light rail
+transport-ground,781,U+1F689,station
+transport-ground,782,U+1F68A,tram
+transport-ground,783,U+1F69D,monorail
+transport-ground,784,U+1F69E,mountain railway
+transport-ground,785,U+1F68B,tram car
+transport-ground,786,U+1F68C,bus
+transport-ground,787,U+1F68D,oncoming bus
+transport-ground,788,U+1F68E,trolleybus
+transport-ground,789,U+1F690,minibus
+transport-ground,790,U+1F691,ambulance
+transport-ground,791,U+1F692,fire engine
+transport-ground,792,U+1F693,police car
+transport-ground,793,U+1F694,oncoming police car
+transport-ground,794,U+1F695,taxi
+transport-ground,795,U+1F696,oncoming taxi
+transport-ground,796,U+1F697,automobile
+transport-ground,797,U+1F698,oncoming automobile
+transport-ground,798,U+1F699,sport utility vehicle
+transport-ground,799,U+1F69A,delivery truck
+transport-ground,800,U+1F69B,articulated lorry
+transport-ground,801,U+1F69C,tractor
+transport-ground,802,U+1F6B2,bicycle
+transport-ground,803,U+1F6F4,kick scooter
+transport-ground,804,U+1F6F9,? skateboard
+transport-ground,805,U+1F6F5,motor scooter
+transport-ground,806,U+1F68F,bus stop
+transport-ground,807,U+1F6E3,motorway
+transport-ground,808,U+1F6E4,railway track
+transport-ground,809,U+1F6E2,oil drum
+transport-ground,810,U+26FD,fuel pump
+transport-ground,811,U+1F6A8,police car light
+transport-ground,812,U+1F6A5,horizontal traffic light
+transport-ground,813,U+1F6A6,vertical traffic light
+transport-ground,814,U+1F6D1,stop sign
+transport-ground,815,U+1F6A7,construction
+transport-water,816,U+2693,anchor
+transport-water,817,U+26F5,sailboat
+transport-water,818,U+1F6F6,canoe
+transport-water,819,U+1F6A4,speedboat
+transport-water,820,U+1F6F3,passenger ship
+transport-water,821,U+26F4,ferry
+transport-water,822,U+1F6E5,motor boat
+transport-water,823,U+1F6A2,ship
+transport-air,824,U+2708,airplane
+transport-air,825,U+1F6E9,small airplane
+transport-air,826,U+1F6EB,airplane departure
+transport-air,827,U+1F6EC,airplane arrival
+transport-air,828,U+1F4BA,seat
+transport-air,829,U+1F681,helicopter
+transport-air,830,U+1F69F,suspension railway
+transport-air,831,U+1F6A0,mountain cableway
+transport-air,832,U+1F6A1,aerial tramway
+transport-air,833,U+1F6F0,satellite
+transport-air,834,U+1F680,rocket
+transport-air,835,U+1F6F8,flying saucer
+hotel,836,U+1F6CE,bellhop bell
+hotel,837,U+1F9F3,? luggage
+time,838,U+231B,hourglass done
+time,839,U+23F3,hourglass not done
+time,840,U+231A,watch
+time,841,U+23F0,alarm clock
+time,842,U+23F1,stopwatch
+time,843,U+23F2,timer clock
+time,844,U+1F570,mantelpiece clock
+time,845,U+1F55B,twelve o’clock
+time,846,U+1F567,twelve-thirty
+time,847,U+1F550,one o’clock
+time,848,U+1F55C,one-thirty
+time,849,U+1F551,two o’clock
+time,850,U+1F55D,two-thirty
+time,851,U+1F552,three o’clock
+time,852,U+1F55E,three-thirty
+time,853,U+1F553,four o’clock
+time,854,U+1F55F,four-thirty
+time,855,U+1F554,five o’clock
+time,856,U+1F560,five-thirty
+time,857,U+1F555,six o’clock
+time,858,U+1F561,six-thirty
+time,859,U+1F556,seven o’clock
+time,860,U+1F562,seven-thirty
+time,861,U+1F557,eight o’clock
+time,862,U+1F563,eight-thirty
+time,863,U+1F558,nine o’clock
+time,864,U+1F564,nine-thirty
+time,865,U+1F559,ten o’clock
+time,866,U+1F565,ten-thirty
+time,867,U+1F55A,eleven o’clock
+time,868,U+1F566,eleven-thirty
+sky & weather,869,U+1F311,new moon
+sky & weather,870,U+1F312,waxing crescent moon
+sky & weather,871,U+1F313,first quarter moon
+sky & weather,872,U+1F314,waxing gibbous moon
+sky & weather,873,U+1F315,full moon
+sky & weather,874,U+1F316,waning gibbous moon
+sky & weather,875,U+1F317,last quarter moon
+sky & weather,876,U+1F318,waning crescent moon
+sky & weather,877,U+1F319,crescent moon
+sky & weather,878,U+1F31A,new moon face
+sky & weather,879,U+1F31B,first quarter moon face
+sky & weather,880,U+1F31C,last quarter moon face
+sky & weather,881,U+1F321,thermometer
+sky & weather,882,U+2600,sun
+sky & weather,883,U+1F31D,full moon face
+sky & weather,884,U+1F31E,sun with face
+sky & weather,885,U+2B50,star
+sky & weather,886,U+1F31F,glowing star
+sky & weather,887,U+1F320,shooting star
+sky & weather,888,U+2601,cloud
+sky & weather,889,U+26C5,sun behind cloud
+sky & weather,890,U+26C8,cloud with lightning and rain
+sky & weather,891,U+1F324,sun behind small cloud
+sky & weather,892,U+1F325,sun behind large cloud
+sky & weather,893,U+1F326,sun behind rain cloud
+sky & weather,894,U+1F327,cloud with rain
+sky & weather,895,U+1F328,cloud with snow
+sky & weather,896,U+1F329,cloud with lightning
+sky & weather,897,U+1F32A,tornado
+sky & weather,898,U+1F32B,fog
+sky & weather,899,U+1F32C,wind face
+sky & weather,900,U+1F300,cyclone
+sky & weather,901,U+1F308,rainbow
+sky & weather,902,U+1F302,closed umbrella
+sky & weather,903,U+2602,umbrella
+sky & weather,904,U+2614,umbrella with rain drops
+sky & weather,905,U+26F1,umbrella on ground
+sky & weather,906,U+26A1,high voltage
+sky & weather,907,U+2744,snowflake
+sky & weather,908,U+2603,snowman
+sky & weather,909,U+26C4,snowman without snow
+sky & weather,910,U+2604,comet
+sky & weather,911,U+1F525,fire
+sky & weather,912,U+1F4A7,droplet
+sky & weather,913,U+1F30A,water wave
+event,914,U+1F383,jack-o-lantern
+event,915,U+1F384,Christmas tree
+event,916,U+1F386,fireworks
+event,917,U+1F387,sparkler
+event,918,U+1F9E8,? firecracker
+event,919,U+2728,sparkles
+event,920,U+1F388,balloon
+event,921,U+1F389,party popper
+event,922,U+1F38A,confetti ball
+event,923,U+1F38B,tanabata tree
+event,924,U+1F38D,pine decoration
+event,925,U+1F38E,Japanese dolls
+event,926,U+1F38F,carp streamer
+event,927,U+1F390,wind chime
+event,928,U+1F391,moon viewing ceremony
+event,929,U+1F9E7,? red envelope
+event,930,U+1F380,ribbon
+event,931,U+1F381,wrapped gift
+event,932,U+1F397,reminder ribbon
+event,933,U+1F39F,admission tickets
+event,934,U+1F3AB,ticket
+award-medal,935,U+1F396,military medal
+award-medal,936,U+1F3C6,trophy
+award-medal,937,U+1F3C5,sports medal
+award-medal,938,U+1F947,1st place medal
+award-medal,939,U+1F948,2nd place medal
+award-medal,940,U+1F949,3rd place medal
+sport,941,U+26BD,soccer ball
+sport,942,U+26BE,baseball
+sport,943,U+1F94E,? softball
+sport,944,U+1F3C0,basketball
+sport,945,U+1F3D0,volleyball
+sport,946,U+1F3C8,american football
+sport,947,U+1F3C9,rugby football
+sport,948,U+1F3BE,tennis
+sport,949,U+1F94F,? flying disc
+sport,950,U+1F3B3,bowling
+sport,951,U+1F3CF,cricket game
+sport,952,U+1F3D1,field hockey
+sport,953,U+1F3D2,ice hockey
+sport,954,U+1F94D,? lacrosse
+sport,955,U+1F3D3,ping pong
+sport,956,U+1F3F8,badminton
+sport,957,U+1F94A,boxing glove
+sport,958,U+1F94B,martial arts uniform
+sport,959,U+1F945,goal net
+sport,960,U+26F3,flag in hole
+sport,961,U+26F8,ice skate
+sport,962,U+1F3A3,fishing pole
+sport,963,U+1F3BD,running shirt
+sport,964,U+1F3BF,skis
+sport,965,U+1F6F7,sled
+sport,966,U+1F94C,curling stone
+game,967,U+1F3AF,direct hit
+game,968,U+1F3B1,pool 8 ball
+game,969,U+1F52E,crystal ball
+game,970,U+1F9FF,? nazar amulet
+game,971,U+1F3AE,video game
+game,972,U+1F579,joystick
+game,973,U+1F3B0,slot machine
+game,974,U+1F3B2,game die
+game,975,U+1F9E9,? jigsaw
+game,976,U+1F9F8,? teddy bear
+game,977,U+2660,spade suit
+game,978,U+2665,heart suit
+game,979,U+2666,diamond suit
+game,980,U+2663,club suit
+game,981,U+265F,? chess pawn
+game,982,U+1F0CF,joker
+game,983,U+1F004,mahjong red dragon
+game,984,U+1F3B4,flower playing cards
+arts & crafts,985,U+1F3AD,performing arts
+arts & crafts,986,U+1F5BC,framed picture
+arts & crafts,987,U+1F3A8,artist palette
+arts & crafts,988,U+1F9F5,? thread
+arts & crafts,989,U+1F9F6,? yarn
+sound,990,U+1F507,muted speaker
+sound,991,U+1F508,speaker low volume
+sound,992,U+1F509,speaker medium volume
+sound,993,U+1F50A,speaker high volume
+sound,994,U+1F4E2,loudspeaker
+sound,995,U+1F4E3,megaphone
+sound,996,U+1F4EF,postal horn
+sound,997,U+1F514,bell
+sound,998,U+1F515,bell with slash
+music,999,U+1F3BC,musical score
+music,1000,U+1F3B5,musical note
+music,1001,U+1F3B6,musical notes
+music,1002,U+1F399,studio microphone
+music,1003,U+1F39A,level slider
+music,1004,U+1F39B,control knobs
+music,1005,U+1F3A4,microphone
+music,1006,U+1F3A7,headphone
+music,1007,U+1F4FB,radio
+musical-instrument,1008,U+1F3B7,saxophone
+musical-instrument,1009,U+1F3B8,guitar
+musical-instrument,1010,U+1F3B9,musical keyboard
+musical-instrument,1011,U+1F3BA,trumpet
+musical-instrument,1012,U+1F3BB,violin
+musical-instrument,1013,U+1F941,drum
+phone,1014,U+1F4F1,mobile phone
+phone,1015,U+1F4F2,mobile phone with arrow
+phone,1016,U+260E,telephone
+phone,1017,U+1F4DE,telephone receiver
+phone,1018,U+1F4DF,pager
+phone,1019,U+1F4E0,fax machine
+computer,1020,U+1F50B,battery
+computer,1021,U+1F50C,electric plug
+computer,1022,U+1F4BB,laptop computer
+computer,1023,U+1F5A5,desktop computer
+computer,1024,U+1F5A8,printer
+computer,1025,U+2328,keyboard
+computer,1026,U+1F5B1,computer mouse
+computer,1027,U+1F5B2,trackball
+computer,1028,U+1F4BD,computer disk
+computer,1029,U+1F4BE,floppy disk
+computer,1030,U+1F4BF,optical disk
+computer,1031,U+1F4C0,dvd
+computer,1032,U+1F9EE,? abacus
+light & video,1033,U+1F3A5,movie camera
+light & video,1034,U+1F39E,film frames
+light & video,1035,U+1F4FD,film projector
+light & video,1036,U+1F3AC,clapper board
+light & video,1037,U+1F4FA,television
+light & video,1038,U+1F4F7,camera
+light & video,1039,U+1F4F8,camera with flash
+light & video,1040,U+1F4F9,video camera
+light & video,1041,U+1F4FC,videocassette
+light & video,1042,U+1F50D,magnifying glass tilted left
+light & video,1043,U+1F50E,magnifying glass tilted right
+light & video,1044,U+1F56F,candle
+light & video,1045,U+1F4A1,light bulb
+light & video,1046,U+1F526,flashlight
+light & video,1047,U+1F3EE,red paper lantern
+book-paper,1048,U+1F4D4,notebook with decorative cover
+book-paper,1049,U+1F4D5,closed book
+book-paper,1050,U+1F4D6,open book
+book-paper,1051,U+1F4D7,green book
+book-paper,1052,U+1F4D8,blue book
+book-paper,1053,U+1F4D9,orange book
+book-paper,1054,U+1F4DA,books
+book-paper,1055,U+1F4D3,notebook
+book-paper,1056,U+1F4D2,ledger
+book-paper,1057,U+1F4C3,page with curl
+book-paper,1058,U+1F4DC,scroll
+book-paper,1059,U+1F4C4,page facing up
+book-paper,1060,U+1F4F0,newspaper
+book-paper,1061,U+1F5DE,rolled-up newspaper
+book-paper,1062,U+1F4D1,bookmark tabs
+book-paper,1063,U+1F516,bookmark
+book-paper,1064,U+1F3F7,label
+money,1065,U+1F4B0,money bag
+money,1066,U+1F4B4,yen banknote
+money,1067,U+1F4B5,dollar banknote
+money,1068,U+1F4B6,euro banknote
+money,1069,U+1F4B7,pound banknote
+money,1070,U+1F4B8,money with wings
+money,1071,U+1F4B3,credit card
+money,1072,U+1F9FE,? receipt
+money,1073,U+1F4B9,chart increasing with yen
+money,1074,U+1F4B1,currency exchange
+money,1075,U+1F4B2,heavy dollar sign
+mail,1076,U+2709,envelope
+mail,1077,U+1F4E7,e-mail
+mail,1078,U+1F4E8,incoming envelope
+mail,1079,U+1F4E9,envelope with arrow
+mail,1080,U+1F4E4,outbox tray
+mail,1081,U+1F4E5,inbox tray
+mail,1082,U+1F4E6,package
+mail,1083,U+1F4EB,closed mailbox with raised flag
+mail,1084,U+1F4EA,closed mailbox with lowered flag
+mail,1085,U+1F4EC,open mailbox with raised flag
+mail,1086,U+1F4ED,open mailbox with lowered flag
+mail,1087,U+1F4EE,postbox
+mail,1088,U+1F5F3,ballot box with ballot
+writing,1089,U+270F,pencil
+writing,1090,U+2712,black nib
+writing,1091,U+1F58B,fountain pen
+writing,1092,U+1F58A,pen
+writing,1093,U+1F58C,paintbrush
+writing,1094,U+1F58D,crayon
+writing,1095,U+1F4DD,memo
+office,1096,U+1F4BC,briefcase
+office,1097,U+1F4C1,file folder
+office,1098,U+1F4C2,open file folder
+office,1099,U+1F5C2,card index dividers
+office,1100,U+1F4C5,calendar
+office,1101,U+1F4C6,tear-off calendar
+office,1102,U+1F5D2,spiral notepad
+office,1103,U+1F5D3,spiral calendar
+office,1104,U+1F4C7,card index
+office,1105,U+1F4C8,chart increasing
+office,1106,U+1F4C9,chart decreasing
+office,1107,U+1F4CA,bar chart
+office,1108,U+1F4CB,clipboard
+office,1109,U+1F4CC,pushpin
+office,1110,U+1F4CD,round pushpin
+office,1111,U+1F4CE,paperclip
+office,1112,U+1F587,linked paperclips
+office,1113,U+1F4CF,straight ruler
+office,1114,U+1F4D0,triangular ruler
+office,1115,U+2702,scissors
+office,1116,U+1F5C3,card file box
+office,1117,U+1F5C4,file cabinet
+office,1118,U+1F5D1,wastebasket
+lock,1119,U+1F512,locked
+lock,1120,U+1F513,unlocked
+lock,1121,U+1F50F,locked with pen
+lock,1122,U+1F510,locked with key
+lock,1123,U+1F511,key
+lock,1124,U+1F5DD,old key
+tool,1125,U+1F528,hammer
+tool,1126,U+26CF,pick
+tool,1127,U+2692,hammer and pick
+tool,1128,U+1F6E0,hammer and wrench
+tool,1129,U+1F5E1,dagger
+tool,1130,U+2694,crossed swords
+tool,1131,U+1F52B,pistol
+tool,1132,U+1F3F9,bow and arrow
+tool,1133,U+1F6E1,shield
+tool,1134,U+1F527,wrench
+tool,1135,U+1F529,nut and bolt
+tool,1136,U+2699,gear
+tool,1137,U+1F5DC,clamp
+tool,1138,U+2696,balance scale
+tool,1139,U+1F517,link
+tool,1140,U+26D3,chains
+tool,1141,U+1F9F0,? toolbox
+tool,1142,U+1F9F2,? magnet
+science,1143,U+2697,alembic
+science,1144,U+1F9EA,? test tube
+science,1145,U+1F9EB,? petri dish
+science,1146,U+1F9EC,? dna
+science,1147,U+1F52C,microscope
+science,1148,U+1F52D,telescope
+science,1149,U+1F4E1,satellite antenna
+medical,1150,U+1F489,syringe
+medical,1151,U+1F48A,pill
+household,1152,U+1F6AA,door
+household,1153,U+1F6CF,bed
+household,1154,U+1F6CB,couch and lamp
+household,1155,U+1F6BD,toilet
+household,1156,U+1F6BF,shower
+household,1157,U+1F6C1,bathtub
+household,1158,U+1F9F4,? lotion bottle
+household,1159,U+1F9F7,? safety pin
+household,1160,U+1F9F9,? broom
+household,1161,U+1F9FA,? basket
+household,1162,U+1F9FB,? roll of paper
+household,1163,U+1F9FC,? soap
+household,1164,U+1F9FD,? sponge
+household,1165,U+1F9EF,? fire extinguisher
+household,1166,U+1F6D2,shopping cart
+other-object,1167,U+1F6AC,cigarette
+other-object,1168,U+26B0,coffin
+other-object,1169,U+26B1,funeral urn
+other-object,1170,U+1F5FF,moai
+transport-sign,1171,U+1F3E7,ATM sign
+transport-sign,1172,U+1F6AE,litter in bin sign
+transport-sign,1173,U+1F6B0,potable water
+transport-sign,1174,U+267F,wheelchair symbol
+transport-sign,1175,U+1F6B9,men’s room
+transport-sign,1176,U+1F6BA,women’s room
+transport-sign,1177,U+1F6BB,restroom
+transport-sign,1178,U+1F6BC,baby symbol
+transport-sign,1179,U+1F6BE,water closet
+transport-sign,1180,U+1F6C2,passport control
+transport-sign,1181,U+1F6C3,customs
+transport-sign,1182,U+1F6C4,baggage claim
+transport-sign,1183,U+1F6C5,left luggage
+warning,1184,U+26A0,warning
+warning,1185,U+1F6B8,children crossing
+warning,1186,U+26D4,no entry
+warning,1187,U+1F6AB,prohibited
+warning,1188,U+1F6B3,no bicycles
+warning,1189,U+1F6AD,no smoking
+warning,1190,U+1F6AF,no littering
+warning,1191,U+1F6B1,non-potable water
+warning,1192,U+1F6B7,no pedestrians
+warning,1193,U+1F4F5,no mobile phones
+warning,1194,U+1F51E,no one under eighteen
+warning,1195,U+2622,radioactive
+warning,1196,U+2623,biohazard
+arrow,1197,U+2B06,up arrow
+arrow,1198,U+2197,up-right arrow
+arrow,1199,U+27A1,right arrow
+arrow,1200,U+2198,down-right arrow
+arrow,1201,U+2B07,down arrow
+arrow,1202,U+2199,down-left arrow
+arrow,1203,U+2B05,left arrow
+arrow,1204,U+2196,up-left arrow
+arrow,1205,U+2195,up-down arrow
+arrow,1206,U+2194,left-right arrow
+arrow,1207,U+21A9,right arrow curving left
+arrow,1208,U+21AA,left arrow curving right
+arrow,1209,U+2934,right arrow curving up
+arrow,1210,U+2935,right arrow curving down
+arrow,1211,U+1F503,clockwise vertical arrows
+arrow,1212,U+1F504,counterclockwise arrows button
+arrow,1213,U+1F519,BACK arrow
+arrow,1214,U+1F51A,END arrow
+arrow,1215,U+1F51B,ON! arrow
+arrow,1216,U+1F51C,SOON arrow
+arrow,1217,U+1F51D,TOP arrow
+religion,1218,U+1F6D0,place of worship
+religion,1219,U+269B,atom symbol
+religion,1220,U+1F549,om
+religion,1221,U+2721,star of David
+religion,1222,U+2638,wheel of dharma
+religion,1223,U+262F,yin yang
+religion,1224,U+271D,latin cross
+religion,1225,U+2626,orthodox cross
+religion,1226,U+262A,star and crescent
+religion,1227,U+262E,peace symbol
+religion,1228,U+1F54E,menorah
+religion,1229,U+1F52F,dotted six-pointed star
+zodiac,1230,U+2648,Aries
+zodiac,1231,U+2649,Taurus
+zodiac,1232,U+264A,Gemini
+zodiac,1233,U+264B,Cancer
+zodiac,1234,U+264C,Leo
+zodiac,1235,U+264D,Virgo
+zodiac,1236,U+264E,Libra
+zodiac,1237,U+264F,Scorpio
+zodiac,1238,U+2650,Sagittarius
+zodiac,1239,U+2651,Capricorn
+zodiac,1240,U+2652,Aquarius
+zodiac,1241,U+2653,Pisces
+zodiac,1242,U+26CE,Ophiuchus
+av-symbol,1243,U+1F500,shuffle tracks button
+av-symbol,1244,U+1F501,repeat button
+av-symbol,1245,U+1F502,repeat single button
+av-symbol,1246,U+25B6,play button
+av-symbol,1247,U+23E9,fast-forward button
+av-symbol,1248,U+23ED,next track button
+av-symbol,1249,U+23EF,play or pause button
+av-symbol,1250,U+25C0,reverse button
+av-symbol,1251,U+23EA,fast reverse button
+av-symbol,1252,U+23EE,last track button
+av-symbol,1253,U+1F53C,upwards button
+av-symbol,1254,U+23EB,fast up button
+av-symbol,1255,U+1F53D,downwards button
+av-symbol,1256,U+23EC,fast down button
+av-symbol,1257,U+23F8,pause button
+av-symbol,1258,U+23F9,stop button
+av-symbol,1259,U+23FA,record button
+av-symbol,1260,U+23CF,eject button
+av-symbol,1261,U+1F3A6,cinema
+av-symbol,1262,U+1F505,dim button
+av-symbol,1263,U+1F506,bright button
+av-symbol,1264,U+1F4F6,antenna bars
+av-symbol,1265,U+1F4F3,vibration mode
+av-symbol,1266,U+1F4F4,mobile phone off
+other-symbol,1267,U+2640,female sign
+other-symbol,1268,U+2642,male sign
+other-symbol,1269,U+2695,medical symbol
+other-symbol,1270,U+267E,? infinity
+other-symbol,1271,U+267B,recycling symbol
+other-symbol,1272,U+269C,fleur-de-lis
+other-symbol,1273,U+1F531,trident emblem
+other-symbol,1274,U+1F4DB,name badge
+other-symbol,1275,U+1F530,Japanese symbol for beginner
+other-symbol,1276,U+2B55,heavy large circle
+other-symbol,1277,U+2705,white heavy check mark
+other-symbol,1278,U+2611,ballot box with check
+other-symbol,1279,U+2714,heavy check mark
+other-symbol,1280,U+2716,heavy multiplication x
+other-symbol,1281,U+274C,cross mark
+other-symbol,1282,U+274E,cross mark button
+other-symbol,1283,U+2795,heavy plus sign
+other-symbol,1284,U+2796,heavy minus sign
+other-symbol,1285,U+2797,heavy division sign
+other-symbol,1286,U+27B0,curly loop
+other-symbol,1287,U+27BF,double curly loop
+other-symbol,1288,U+303D,part alternation mark
+other-symbol,1289,U+2733,eight-spoked asterisk
+other-symbol,1290,U+2734,eight-pointed star
+other-symbol,1291,U+2747,sparkle
+other-symbol,1292,U+203C,double exclamation mark
+other-symbol,1293,U+2049,exclamation question mark
+other-symbol,1294,U+2753,question mark
+other-symbol,1295,U+2754,white question mark
+other-symbol,1296,U+2755,white exclamation mark
+other-symbol,1297,U+2757,exclamation mark
+other-symbol,1298,U+3030,wavy dash
+other-symbol,1299,U+00A9,copyright
+other-symbol,1300,U+00AE,registered
+other-symbol,1301,U+2122,trade mark
+keycap,1302,U+0023 U+FE0F U+20E3,keycap: #
+keycap,1303,U+002A U+FE0F U+20E3,keycap: *
+keycap,1304,U+0030 U+FE0F U+20E3,keycap: 0
+keycap,1305,U+0031 U+FE0F U+20E3,keycap: 1
+keycap,1306,U+0032 U+FE0F U+20E3,keycap: 2
+keycap,1307,U+0033 U+FE0F U+20E3,keycap: 3
+keycap,1308,U+0034 U+FE0F U+20E3,keycap: 4
+keycap,1309,U+0035 U+FE0F U+20E3,keycap: 5
+keycap,1310,U+0036 U+FE0F U+20E3,keycap: 6
+keycap,1311,U+0037 U+FE0F U+20E3,keycap: 7
+keycap,1312,U+0038 U+FE0F U+20E3,keycap: 8
+keycap,1313,U+0039 U+FE0F U+20E3,keycap: 9
+keycap,1314,U+1F51F,keycap: 10
+alphanum,1315,U+1F4AF,hundred points
+alphanum,1316,U+1F520,input latin uppercase
+alphanum,1317,U+1F521,input latin lowercase
+alphanum,1318,U+1F522,input numbers
+alphanum,1319,U+1F523,input symbols
+alphanum,1320,U+1F524,input latin letters
+alphanum,1321,U+1F170,A button (blood type)
+alphanum,1322,U+1F18E,AB button (blood type)
+alphanum,1323,U+1F171,B button (blood type)
+alphanum,1324,U+1F191,CL button
+alphanum,1325,U+1F192,COOL button
+alphanum,1326,U+1F193,FREE button
+alphanum,1327,U+2139,information
+alphanum,1328,U+1F194,ID button
+alphanum,1329,U+24C2,circled M
+alphanum,1330,U+1F195,NEW button
+alphanum,1331,U+1F196,NG button
+alphanum,1332,U+1F17E,O button (blood type)
+alphanum,1333,U+1F197,OK button
+alphanum,1334,U+1F17F,P button
+alphanum,1335,U+1F198,SOS button
+alphanum,1336,U+1F199,UP! button
+alphanum,1337,U+1F19A,VS button
+alphanum,1338,U+1F201,Japanese “here” button
+alphanum,1339,U+1F202,Japanese “service charge” button
+alphanum,1340,U+1F237,Japanese “monthly amount” button
+alphanum,1341,U+1F236,Japanese “not free of charge” button
+alphanum,1342,U+1F22F,Japanese “reserved” button
+alphanum,1343,U+1F250,Japanese “bargain” button
+alphanum,1344,U+1F239,Japanese “discount” button
+alphanum,1345,U+1F21A,Japanese “free of charge” button
+alphanum,1346,U+1F232,Japanese “prohibited” button
+alphanum,1347,U+1F251,Japanese “acceptable” button
+alphanum,1348,U+1F238,Japanese “application” button
+alphanum,1349,U+1F234,Japanese “passing grade” button
+alphanum,1350,U+1F233,Japanese “vacancy” button
+alphanum,1351,U+3297,Japanese “congratulations” button
+alphanum,1352,U+3299,Japanese “secret” button
+alphanum,1353,U+1F23A,Japanese “open for business” button
+alphanum,1354,U+1F235,Japanese “no vacancy” button
+geometric,1355,U+1F534,red circle
+geometric,1356,U+1F535,blue circle
+geometric,1357,U+26AA,white circle
+geometric,1358,U+26AB,black circle
+geometric,1359,U+2B1C,white large square
+geometric,1360,U+2B1B,black large square
+geometric,1361,U+25FC,black medium square
+geometric,1362,U+25FB,white medium square
+geometric,1363,U+25FD,white medium-small square
+geometric,1364,U+25FE,black medium-small square
+geometric,1365,U+25AB,white small square
+geometric,1366,U+25AA,black small square
+geometric,1367,U+1F536,large orange diamond
+geometric,1368,U+1F537,large blue diamond
+geometric,1369,U+1F538,small orange diamond
+geometric,1370,U+1F539,small blue diamond
+geometric,1371,U+1F53A,red triangle pointed up
+geometric,1372,U+1F53B,red triangle pointed down
+geometric,1373,U+1F4A0,diamond with a dot
+geometric,1374,U+1F518,radio button
+geometric,1375,U+1F532,black square button
+geometric,1376,U+1F533,white square button
+flag,1377,U+1F3C1,chequered flag
+flag,1378,U+1F6A9,triangular flag
+flag,1379,U+1F38C,crossed flags
+flag,1380,U+1F3F4,black flag
+flag,1381,U+1F3F3,white flag
+flag,1382,U+1F3F3 U+FE0F U+200D U+1F308,rainbow flag
+flag,1383,U+1F3F4 U+200D U+2620 U+FE0F,? pirate flag
+country-flag,1384,U+1F1E6 U+1F1E8,flag: Ascension Island
+country-flag,1385,U+1F1E6 U+1F1E9,flag: Andorra
+country-flag,1386,U+1F1E6 U+1F1EA,flag: United Arab Emirates
+country-flag,1387,U+1F1E6 U+1F1EB,flag: Afghanistan
+country-flag,1388,U+1F1E6 U+1F1EC,flag: Antigua & Barbuda
+country-flag,1389,U+1F1E6 U+1F1EE,flag: Anguilla
+country-flag,1390,U+1F1E6 U+1F1F1,flag: Albania
+country-flag,1391,U+1F1E6 U+1F1F2,flag: Armenia
+country-flag,1392,U+1F1E6 U+1F1F4,flag: Angola
+country-flag,1393,U+1F1E6 U+1F1F6,flag: Antarctica
+country-flag,1394,U+1F1E6 U+1F1F7,flag: Argentina
+country-flag,1395,U+1F1E6 U+1F1F8,flag: American Samoa
+country-flag,1396,U+1F1E6 U+1F1F9,flag: Austria
+country-flag,1397,U+1F1E6 U+1F1FA,flag: Australia
+country-flag,1398,U+1F1E6 U+1F1FC,flag: Aruba
+country-flag,1399,U+1F1E6 U+1F1FD,flag: Åland Islands
+country-flag,1400,U+1F1E6 U+1F1FF,flag: Azerbaijan
+country-flag,1401,U+1F1E7 U+1F1E6,flag: Bosnia & Herzegovina
+country-flag,1402,U+1F1E7 U+1F1E7,flag: Barbados
+country-flag,1403,U+1F1E7 U+1F1E9,flag: Bangladesh
+country-flag,1404,U+1F1E7 U+1F1EA,flag: Belgium
+country-flag,1405,U+1F1E7 U+1F1EB,flag: Burkina Faso
+country-flag,1406,U+1F1E7 U+1F1EC,flag: Bulgaria
+country-flag,1407,U+1F1E7 U+1F1ED,flag: Bahrain
+country-flag,1408,U+1F1E7 U+1F1EE,flag: Burundi
+country-flag,1409,U+1F1E7 U+1F1EF,flag: Benin
+country-flag,1410,U+1F1E7 U+1F1F1,flag: St. Barthélemy
+country-flag,1411,U+1F1E7 U+1F1F2,flag: Bermuda
+country-flag,1412,U+1F1E7 U+1F1F3,flag: Brunei
+country-flag,1413,U+1F1E7 U+1F1F4,flag: Bolivia
+country-flag,1414,U+1F1E7 U+1F1F6,flag: Caribbean Netherlands
+country-flag,1415,U+1F1E7 U+1F1F7,flag: Brazil
+country-flag,1416,U+1F1E7 U+1F1F8,flag: Bahamas
+country-flag,1417,U+1F1E7 U+1F1F9,flag: Bhutan
+country-flag,1418,U+1F1E7 U+1F1FB,flag: Bouvet Island
+country-flag,1419,U+1F1E7 U+1F1FC,flag: Botswana
+country-flag,1420,U+1F1E7 U+1F1FE,flag: Belarus
+country-flag,1421,U+1F1E7 U+1F1FF,flag: Belize
+country-flag,1422,U+1F1E8 U+1F1E6,flag: Canada
+country-flag,1423,U+1F1E8 U+1F1E8,flag: Cocos (Keeling) Islands
+country-flag,1424,U+1F1E8 U+1F1E9,flag: Congo - Kinshasa
+country-flag,1425,U+1F1E8 U+1F1EB,flag: Central African Republic
+country-flag,1426,U+1F1E8 U+1F1EC,flag: Congo - Brazzaville
+country-flag,1427,U+1F1E8 U+1F1ED,flag: Switzerland
+country-flag,1428,U+1F1E8 U+1F1EE,flag: Côte d’Ivoire
+country-flag,1429,U+1F1E8 U+1F1F0,flag: Cook Islands
+country-flag,1430,U+1F1E8 U+1F1F1,flag: Chile
+country-flag,1431,U+1F1E8 U+1F1F2,flag: Cameroon
+country-flag,1432,U+1F1E8 U+1F1F3,flag: China
+country-flag,1433,U+1F1E8 U+1F1F4,flag: Colombia
+country-flag,1434,U+1F1E8 U+1F1F5,flag: Clipperton Island
+country-flag,1435,U+1F1E8 U+1F1F7,flag: Costa Rica
+country-flag,1436,U+1F1E8 U+1F1FA,flag: Cuba
+country-flag,1437,U+1F1E8 U+1F1FB,flag: Cape Verde
+country-flag,1438,U+1F1E8 U+1F1FC,flag: Curaçao
+country-flag,1439,U+1F1E8 U+1F1FD,flag: Christmas Island
+country-flag,1440,U+1F1E8 U+1F1FE,flag: Cyprus
+country-flag,1441,U+1F1E8 U+1F1FF,flag: Czechia
+country-flag,1442,U+1F1E9 U+1F1EA,flag: Germany
+country-flag,1443,U+1F1E9 U+1F1EC,flag: Diego Garcia
+country-flag,1444,U+1F1E9 U+1F1EF,flag: Djibouti
+country-flag,1445,U+1F1E9 U+1F1F0,flag: Denmark
+country-flag,1446,U+1F1E9 U+1F1F2,flag: Dominica
+country-flag,1447,U+1F1E9 U+1F1F4,flag: Dominican Republic
+country-flag,1448,U+1F1E9 U+1F1FF,flag: Algeria
+country-flag,1449,U+1F1EA U+1F1E6,flag: Ceuta & Melilla
+country-flag,1450,U+1F1EA U+1F1E8,flag: Ecuador
+country-flag,1451,U+1F1EA U+1F1EA,flag: Estonia
+country-flag,1452,U+1F1EA U+1F1EC,flag: Egypt
+country-flag,1453,U+1F1EA U+1F1ED,flag: Western Sahara
+country-flag,1454,U+1F1EA U+1F1F7,flag: Eritrea
+country-flag,1455,U+1F1EA U+1F1F8,flag: Spain
+country-flag,1456,U+1F1EA U+1F1F9,flag: Ethiopia
+country-flag,1457,U+1F1EA U+1F1FA,flag: European Union
+country-flag,1458,U+1F1EB U+1F1EE,flag: Finland
+country-flag,1459,U+1F1EB U+1F1EF,flag: Fiji
+country-flag,1460,U+1F1EB U+1F1F0,flag: Falkland Islands
+country-flag,1461,U+1F1EB U+1F1F2,flag: Micronesia
+country-flag,1462,U+1F1EB U+1F1F4,flag: Faroe Islands
+country-flag,1463,U+1F1EB U+1F1F7,flag: France
+country-flag,1464,U+1F1EC U+1F1E6,flag: Gabon
+country-flag,1465,U+1F1EC U+1F1E7,flag: United Kingdom
+country-flag,1466,U+1F1EC U+1F1E9,flag: Grenada
+country-flag,1467,U+1F1EC U+1F1EA,flag: Georgia
+country-flag,1468,U+1F1EC U+1F1EB,flag: French Guiana
+country-flag,1469,U+1F1EC U+1F1EC,flag: Guernsey
+country-flag,1470,U+1F1EC U+1F1ED,flag: Ghana
+country-flag,1471,U+1F1EC U+1F1EE,flag: Gibraltar
+country-flag,1472,U+1F1EC U+1F1F1,flag: Greenland
+country-flag,1473,U+1F1EC U+1F1F2,flag: Gambia
+country-flag,1474,U+1F1EC U+1F1F3,flag: Guinea
+country-flag,1475,U+1F1EC U+1F1F5,flag: Guadeloupe
+country-flag,1476,U+1F1EC U+1F1F6,flag: Equatorial Guinea
+country-flag,1477,U+1F1EC U+1F1F7,flag: Greece
+country-flag,1478,U+1F1EC U+1F1F8,flag: South Georgia & South Sandwich Islands
+country-flag,1479,U+1F1EC U+1F1F9,flag: Guatemala
+country-flag,1480,U+1F1EC U+1F1FA,flag: Guam
+country-flag,1481,U+1F1EC U+1F1FC,flag: Guinea-Bissau
+country-flag,1482,U+1F1EC U+1F1FE,flag: Guyana
+country-flag,1483,U+1F1ED U+1F1F0,flag: Hong Kong SAR China
+country-flag,1484,U+1F1ED U+1F1F2,flag: Heard & McDonald Islands
+country-flag,1485,U+1F1ED U+1F1F3,flag: Honduras
+country-flag,1486,U+1F1ED U+1F1F7,flag: Croatia
+country-flag,1487,U+1F1ED U+1F1F9,flag: Haiti
+country-flag,1488,U+1F1ED U+1F1FA,flag: Hungary
+country-flag,1489,U+1F1EE U+1F1E8,flag: Canary Islands
+country-flag,1490,U+1F1EE U+1F1E9,flag: Indonesia
+country-flag,1491,U+1F1EE U+1F1EA,flag: Ireland
+country-flag,1492,U+1F1EE U+1F1F1,flag: Israel
+country-flag,1493,U+1F1EE U+1F1F2,flag: Isle of Man
+country-flag,1494,U+1F1EE U+1F1F3,flag: India
+country-flag,1495,U+1F1EE U+1F1F4,flag: British Indian Ocean Territory
+country-flag,1496,U+1F1EE U+1F1F6,flag: Iraq
+country-flag,1497,U+1F1EE U+1F1F7,flag: Iran
+country-flag,1498,U+1F1EE U+1F1F8,flag: Iceland
+country-flag,1499,U+1F1EE U+1F1F9,flag: Italy
+country-flag,1500,U+1F1EF U+1F1EA,flag: Jersey
+country-flag,1501,U+1F1EF U+1F1F2,flag: Jamaica
+country-flag,1502,U+1F1EF U+1F1F4,flag: Jordan
+country-flag,1503,U+1F1EF U+1F1F5,flag: Japan
+country-flag,1504,U+1F1F0 U+1F1EA,flag: Kenya
+country-flag,1505,U+1F1F0 U+1F1EC,flag: Kyrgyzstan
+country-flag,1506,U+1F1F0 U+1F1ED,flag: Cambodia
+country-flag,1507,U+1F1F0 U+1F1EE,flag: Kiribati
+country-flag,1508,U+1F1F0 U+1F1F2,flag: Comoros
+country-flag,1509,U+1F1F0 U+1F1F3,flag: St. Kitts & Nevis
+country-flag,1510,U+1F1F0 U+1F1F5,flag: North Korea
+country-flag,1511,U+1F1F0 U+1F1F7,flag: South Korea
+country-flag,1512,U+1F1F0 U+1F1FC,flag: Kuwait
+country-flag,1513,U+1F1F0 U+1F1FE,flag: Cayman Islands
+country-flag,1514,U+1F1F0 U+1F1FF,flag: Kazakhstan
+country-flag,1515,U+1F1F1 U+1F1E6,flag: Laos
+country-flag,1516,U+1F1F1 U+1F1E7,flag: Lebanon
+country-flag,1517,U+1F1F1 U+1F1E8,flag: St. Lucia
+country-flag,1518,U+1F1F1 U+1F1EE,flag: Liechtenstein
+country-flag,1519,U+1F1F1 U+1F1F0,flag: Sri Lanka
+country-flag,1520,U+1F1F1 U+1F1F7,flag: Liberia
+country-flag,1521,U+1F1F1 U+1F1F8,flag: Lesotho
+country-flag,1522,U+1F1F1 U+1F1F9,flag: Lithuania
+country-flag,1523,U+1F1F1 U+1F1FA,flag: Luxembourg
+country-flag,1524,U+1F1F1 U+1F1FB,flag: Latvia
+country-flag,1525,U+1F1F1 U+1F1FE,flag: Libya
+country-flag,1526,U+1F1F2 U+1F1E6,flag: Morocco
+country-flag,1527,U+1F1F2 U+1F1E8,flag: Monaco
+country-flag,1528,U+1F1F2 U+1F1E9,flag: Moldova
+country-flag,1529,U+1F1F2 U+1F1EA,flag: Montenegro
+country-flag,1530,U+1F1F2 U+1F1EB,flag: St. Martin
+country-flag,1531,U+1F1F2 U+1F1EC,flag: Madagascar
+country-flag,1532,U+1F1F2 U+1F1ED,flag: Marshall Islands
+country-flag,1533,U+1F1F2 U+1F1F0,flag: Macedonia
+country-flag,1534,U+1F1F2 U+1F1F1,flag: Mali
+country-flag,1535,U+1F1F2 U+1F1F2,flag: Myanmar (Burma)
+country-flag,1536,U+1F1F2 U+1F1F3,flag: Mongolia
+country-flag,1537,U+1F1F2 U+1F1F4,flag: Macau SAR China
+country-flag,1538,U+1F1F2 U+1F1F5,flag: Northern Mariana Islands
+country-flag,1539,U+1F1F2 U+1F1F6,flag: Martinique
+country-flag,1540,U+1F1F2 U+1F1F7,flag: Mauritania
+country-flag,1541,U+1F1F2 U+1F1F8,flag: Montserrat
+country-flag,1542,U+1F1F2 U+1F1F9,flag: Malta
+country-flag,1543,U+1F1F2 U+1F1FA,flag: Mauritius
+country-flag,1544,U+1F1F2 U+1F1FB,flag: Maldives
+country-flag,1545,U+1F1F2 U+1F1FC,flag: Malawi
+country-flag,1546,U+1F1F2 U+1F1FD,flag: Mexico
+country-flag,1547,U+1F1F2 U+1F1FE,flag: Malaysia
+country-flag,1548,U+1F1F2 U+1F1FF,flag: Mozambique
+country-flag,1549,U+1F1F3 U+1F1E6,flag: Namibia
+country-flag,1550,U+1F1F3 U+1F1E8,flag: New Caledonia
+country-flag,1551,U+1F1F3 U+1F1EA,flag: Niger
+country-flag,1552,U+1F1F3 U+1F1EB,flag: Norfolk Island
+country-flag,1553,U+1F1F3 U+1F1EC,flag: Nigeria
+country-flag,1554,U+1F1F3 U+1F1EE,flag: Nicaragua
+country-flag,1555,U+1F1F3 U+1F1F1,flag: Netherlands
+country-flag,1556,U+1F1F3 U+1F1F4,flag: Norway
+country-flag,1557,U+1F1F3 U+1F1F5,flag: Nepal
+country-flag,1558,U+1F1F3 U+1F1F7,flag: Nauru
+country-flag,1559,U+1F1F3 U+1F1FA,flag: Niue
+country-flag,1560,U+1F1F3 U+1F1FF,flag: New Zealand
+country-flag,1561,U+1F1F4 U+1F1F2,flag: Oman
+country-flag,1562,U+1F1F5 U+1F1E6,flag: Panama
+country-flag,1563,U+1F1F5 U+1F1EA,flag: Peru
+country-flag,1564,U+1F1F5 U+1F1EB,flag: French Polynesia
+country-flag,1565,U+1F1F5 U+1F1EC,flag: Papua New Guinea
+country-flag,1566,U+1F1F5 U+1F1ED,flag: Philippines
+country-flag,1567,U+1F1F5 U+1F1F0,flag: Pakistan
+country-flag,1568,U+1F1F5 U+1F1F1,flag: Poland
+country-flag,1569,U+1F1F5 U+1F1F2,flag: St. Pierre & Miquelon
+country-flag,1570,U+1F1F5 U+1F1F3,flag: Pitcairn Islands
+country-flag,1571,U+1F1F5 U+1F1F7,flag: Puerto Rico
+country-flag,1572,U+1F1F5 U+1F1F8,flag: Palestinian Territories
+country-flag,1573,U+1F1F5 U+1F1F9,flag: Portugal
+country-flag,1574,U+1F1F5 U+1F1FC,flag: Palau
+country-flag,1575,U+1F1F5 U+1F1FE,flag: Paraguay
+country-flag,1576,U+1F1F6 U+1F1E6,flag: Qatar
+country-flag,1577,U+1F1F7 U+1F1EA,flag: Réunion
+country-flag,1578,U+1F1F7 U+1F1F4,flag: Romania
+country-flag,1579,U+1F1F7 U+1F1F8,flag: Serbia
+country-flag,1580,U+1F1F7 U+1F1FA,flag: Russia
+country-flag,1581,U+1F1F7 U+1F1FC,flag: Rwanda
+country-flag,1582,U+1F1F8 U+1F1E6,flag: Saudi Arabia
+country-flag,1583,U+1F1F8 U+1F1E7,flag: Solomon Islands
+country-flag,1584,U+1F1F8 U+1F1E8,flag: Seychelles
+country-flag,1585,U+1F1F8 U+1F1E9,flag: Sudan
+country-flag,1586,U+1F1F8 U+1F1EA,flag: Sweden
+country-flag,1587,U+1F1F8 U+1F1EC,flag: Singapore
+country-flag,1588,U+1F1F8 U+1F1ED,flag: St. Helena
+country-flag,1589,U+1F1F8 U+1F1EE,flag: Slovenia
+country-flag,1590,U+1F1F8 U+1F1EF,flag: Svalbard & Jan Mayen
+country-flag,1591,U+1F1F8 U+1F1F0,flag: Slovakia
+country-flag,1592,U+1F1F8 U+1F1F1,flag: Sierra Leone
+country-flag,1593,U+1F1F8 U+1F1F2,flag: San Marino
+country-flag,1594,U+1F1F8 U+1F1F3,flag: Senegal
+country-flag,1595,U+1F1F8 U+1F1F4,flag: Somalia
+country-flag,1596,U+1F1F8 U+1F1F7,flag: Suriname
+country-flag,1597,U+1F1F8 U+1F1F8,flag: South Sudan
+country-flag,1598,U+1F1F8 U+1F1F9,flag: São Tomé & Príncipe
+country-flag,1599,U+1F1F8 U+1F1FB,flag: El Salvador
+country-flag,1600,U+1F1F8 U+1F1FD,flag: Sint Maarten
+country-flag,1601,U+1F1F8 U+1F1FE,flag: Syria
+country-flag,1602,U+1F1F8 U+1F1FF,flag: Swaziland
+country-flag,1603,U+1F1F9 U+1F1E6,flag: Tristan da Cunha
+country-flag,1604,U+1F1F9 U+1F1E8,flag: Turks & Caicos Islands
+country-flag,1605,U+1F1F9 U+1F1E9,flag: Chad
+country-flag,1606,U+1F1F9 U+1F1EB,flag: French Southern Territories
+country-flag,1607,U+1F1F9 U+1F1EC,flag: Togo
+country-flag,1608,U+1F1F9 U+1F1ED,flag: Thailand
+country-flag,1609,U+1F1F9 U+1F1EF,flag: Tajikistan
+country-flag,1610,U+1F1F9 U+1F1F0,flag: Tokelau
+country-flag,1611,U+1F1F9 U+1F1F1,flag: Timor-Leste
+country-flag,1612,U+1F1F9 U+1F1F2,flag: Turkmenistan
+country-flag,1613,U+1F1F9 U+1F1F3,flag: Tunisia
+country-flag,1614,U+1F1F9 U+1F1F4,flag: Tonga
+country-flag,1615,U+1F1F9 U+1F1F7,flag: Turkey
+country-flag,1616,U+1F1F9 U+1F1F9,flag: Trinidad & Tobago
+country-flag,1617,U+1F1F9 U+1F1FB,flag: Tuvalu
+country-flag,1618,U+1F1F9 U+1F1FC,flag: Taiwan
+country-flag,1619,U+1F1F9 U+1F1FF,flag: Tanzania
+country-flag,1620,U+1F1FA U+1F1E6,flag: Ukraine
+country-flag,1621,U+1F1FA U+1F1EC,flag: Uganda
+country-flag,1622,U+1F1FA U+1F1F2,flag: U.S. Outlying Islands
+country-flag,1623,U+1F1FA U+1F1F3,flag: United Nations
+country-flag,1624,U+1F1FA U+1F1F8,flag: United States
+country-flag,1625,U+1F1FA U+1F1FE,flag: Uruguay
+country-flag,1626,U+1F1FA U+1F1FF,flag: Uzbekistan
+country-flag,1627,U+1F1FB U+1F1E6,flag: Vatican City
+country-flag,1628,U+1F1FB U+1F1E8,flag: St. Vincent & Grenadines
+country-flag,1629,U+1F1FB U+1F1EA,flag: Venezuela
+country-flag,1630,U+1F1FB U+1F1EC,flag: British Virgin Islands
+country-flag,1631,U+1F1FB U+1F1EE,flag: U.S. Virgin Islands
+country-flag,1632,U+1F1FB U+1F1F3,flag: Vietnam
+country-flag,1633,U+1F1FB U+1F1FA,flag: Vanuatu
+country-flag,1634,U+1F1FC U+1F1EB,flag: Wallis & Futuna
+country-flag,1635,U+1F1FC U+1F1F8,flag: Samoa
+country-flag,1636,U+1F1FD U+1F1F0,flag: Kosovo
+country-flag,1637,U+1F1FE U+1F1EA,flag: Yemen
+country-flag,1638,U+1F1FE U+1F1F9,flag: Mayotte
+country-flag,1639,U+1F1FF U+1F1E6,flag: South Africa
+country-flag,1640,U+1F1FF U+1F1F2,flag: Zambia
+country-flag,1641,U+1F1FF U+1F1FC,flag: Zimbabwe
+subdivision-flag,1642,U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F,flag: England
+subdivision-flag,1643,U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F,flag: Scotland
+subdivision-flag,1644,U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F,flag: Wales
